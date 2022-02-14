@@ -2,27 +2,25 @@
 
 English version of wabot-aq
 
-Don't forget to give it a star  🌟
+Não esqueça de dar uma estrela  🌟
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/itsajaygaur/tokio-wabot)
 
-## FOR TERMUX/UBUNTU/SSH USER
+## PARA USUÁRIO TERMUX/UBUNTU/SSH
 
 ```bash
-apt update && apt upgrade
-apt install git -y
-apt install nodejs -y
-apt install ffmpeg -y
-apt install imagemagick -y
+pkg update && pkg upgrade && pkg install git -y && pkg install nodejs -y && pkg install ffmpeg -y && pkg install imagemagick -y
+```
+```bash
 git clone https://github.com/itsajaygaur/tokio-wabot
-cd tokio-wabot
-npm install
-npm update
+```
+```bash
+cd tokio-wabot && npm install && npm update
 ```
 
-## INSTALL ON TERMUX WITH UBUNTU
+## INSTALE NO TERMUX COM UBUNTU
 
-[ INSTALLING UBUNTU ]
+[ INSTALANDO O UBUNTU ]
 
 ```bash
 apt update && apt full-upgrade
