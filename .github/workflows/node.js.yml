@@ -1,5 +1,5 @@
-# This workflow will do a clean install of node dependencies, build the source code and run tests across different versions of node
-# For more information see: https://help.github.com/actions/language-and-framework-guides/using-nodejs-with-github-actions
+# Este fluxo de trabalho fará uma instalação limpa das dependências do node, compilará o código-fonte e executará testes em diferentes versões do node
+# Para obter mais informações, consulte: https://docs.github.com/pt/actions/automating-builds-and-tests/building-and-testing-nodejs
 
 name: Node.js CI
 
