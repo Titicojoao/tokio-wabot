@@ -1,6 +1,6 @@
 # tokio
 
-English version of wabot-aq
+Versão em BR do wabot-aq
 
 Não esqueça de dar uma estrela  🌟
 
