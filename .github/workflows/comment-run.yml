@@ -9,7 +9,7 @@ jobs:
     steps:
     - uses: actions/checkout@v2
       with:
-        # 0 indicates all history
+        # 0 indica todo o histórico
         fetch-depth: 0
     - uses: nwtgck/actions-comment-run@v1.1
       with:
